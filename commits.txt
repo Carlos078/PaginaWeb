@@ -1,0 +1,17 @@
+commit 0d083696827cf004c8226adefcf81b0489a46b3d
+Author: Jair <jairpulido308@gmail.com>
+Date:   Tue Feb 11 22:59:01 2020 -0600
+
+    Modificacion de borde de tabla en PaginaWeb.html
+
+commit 49143dcf7b800abaaf35fb66d9417591229c7bec
+Author: Jair <jairpulido308@gmail.com>
+Date:   Tue Feb 11 22:55:16 2020 -0600
+
+    Se agrega una linea de texto en el titulo de PaginaWeb.html
+
+commit 246b84a5e715bb3fe0790152ab6cd300bc9b680f
+Author: Jair <jairpulido308@gmail.com>
+Date:   Tue Feb 11 22:45:28 2020 -0600
+
+    Iniciamos
